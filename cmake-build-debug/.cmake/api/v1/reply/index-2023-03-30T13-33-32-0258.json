@@ -4,29 +4,29 @@
 		"generator" : 
 		{
 			"multiConfig" : false,
-			"name" : "Ninja"
+			"name" : "Unix Makefiles"
 		},
 		"paths" : 
 		{
-			"cmake" : "/snap/clion/229/bin/cmake/linux/x64/bin/cmake",
-			"cpack" : "/snap/clion/229/bin/cmake/linux/x64/bin/cpack",
-			"ctest" : "/snap/clion/229/bin/cmake/linux/x64/bin/ctest",
-			"root" : "/snap/clion/229/bin/cmake/linux/x64/share/cmake-3.24"
+			"cmake" : "/snap/clion/233/bin/cmake/linux/x64/bin/cmake",
+			"cpack" : "/snap/clion/233/bin/cmake/linux/x64/bin/cpack",
+			"ctest" : "/snap/clion/233/bin/cmake/linux/x64/bin/ctest",
+			"root" : "/snap/clion/233/bin/cmake/linux/x64/share/cmake-3.25"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 3,
-			"minor" : 24,
+			"minor" : 25,
 			"patch" : 2,
-			"string" : "3.24.2",
+			"string" : "3.25.2",
 			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-b8d7c0e794d398e72340.json",
+			"jsonFile" : "codemodel-v2-c7100c3c3107d01d6fed.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-a26f28da1a175cdba4d4.json",
+			"jsonFile" : "cache-v2-02b79505630f862be9da.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-7748ed66f915980379d2.json",
+			"jsonFile" : "cmakeFiles-v1-1bad9b2f44120291dc6b.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-a26f28da1a175cdba4d4.json",
+			"jsonFile" : "cache-v2-02b79505630f862be9da.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-7748ed66f915980379d2.json",
+			"jsonFile" : "cmakeFiles-v1-1bad9b2f44120291dc6b.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,7 +86,7 @@
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-b8d7c0e794d398e72340.json",
+			"jsonFile" : "codemodel-v2-c7100c3c3107d01d6fed.json",
 			"kind" : "codemodel",
 			"version" : 
 			{

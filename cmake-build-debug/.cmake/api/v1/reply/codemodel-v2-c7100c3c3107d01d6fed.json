@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/marinho/CLionProjects/teste/cmake-build-debug",
-		"source" : "/home/marinho/CLionProjects/teste"
+		"build" : "/home/marinho/Documents/pessoal/ComputacaoGrafica/cmake-build-debug",
+		"source" : "/home/marinho/Documents/pessoal/ComputacaoGrafica"
 	},
 	"version" : 
 	{

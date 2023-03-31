@@ -1,3 +1,3 @@
-/home/marinho/CLionProjects/teste/cmake-build-debug/CMakeFiles/teste.dir
-/home/marinho/CLionProjects/teste/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/marinho/CLionProjects/teste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marinho/Documents/pessoal/ComputacaoGrafica/cmake-build-debug/CMakeFiles/teste.dir
+/home/marinho/Documents/pessoal/ComputacaoGrafica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marinho/Documents/pessoal/ComputacaoGrafica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
